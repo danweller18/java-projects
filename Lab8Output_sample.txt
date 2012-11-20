@@ -1,0 +1,5 @@
+"abccba" is a palindrome.
+"1234!!!4321" is a palindrome.
+"af3 3fa" is a palindrome.
+"123343dgd7 7dgd343321" is a palindrome.
+"1237 7 321" is not a palindrome.
